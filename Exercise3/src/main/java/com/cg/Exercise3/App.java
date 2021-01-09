@@ -1,3 +1,7 @@
+/*Reverse and Sort Array
+ * author-L.S.Kanishka
+ */
+
 package com.cg.Exercise3;
 
 import java.util.Arrays;
