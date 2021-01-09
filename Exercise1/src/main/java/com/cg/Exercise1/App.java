@@ -1,3 +1,6 @@
+/*Program to get second smallest element from the arra
+author-L.S.Kanishka*/
+
 package com.cg.Exercise1;
 
 import java.util.Arrays;
